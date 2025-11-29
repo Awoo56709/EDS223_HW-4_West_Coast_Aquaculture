@@ -1,6 +1,8 @@
 # Suitability of Aquaculture by Species
 
-![README](.png)
+
+
+![Oyster EEZ](Oyster EEZ.png)
 
 # Repository's Purpose
 
@@ -21,21 +23,22 @@ While data sources are stored within the repository, direct sources are linked b
 # Repository Structure
 
 ``` text
-├── data
-│   ├── average_annual_sst_2008.tif
-│   ├── average_annual_sst_2009.tif
-│   ├── average_annual_sst_2010.tif
-│   ├── average_annual_sst_2011.tif
-│   ├── average_annual_sst_2012.tif
-│   ├── depth.tif
-│   ├── wc_regions_clean.dbf
-│   ├── wc_regions_clean.prj
-│   ├── wc_regions_clean.shp
-│   └── wc_regions_clean.shx
+├── .gitignore
+│   └── data
+│        └── average_annual_sst_2008.tif
+│        ├── average_annual_sst_2009.tif
+│        ├── average_annual_sst_2010.tif
+│        ├── average_annual_sst_2011.tif
+│        ├── average_annual_sst_2012.tif
+│        ├── depth.tif
+│        ├── wc_regions_clean.dbf
+│        ├── wc_regions_clean.prj
+│        ├── wc_regions_clean.shp
+│        └── wc_regions_clean.shx
 ├── EDS223_HW-4_West_Coast_Aquaculture.Rproj
 ├── HW_4.qmd
 └── README.md
-```
+ ```
 
 # Acknowledgements
 

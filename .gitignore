@@ -8,7 +8,7 @@
 
 # User-specific files
 .Ruserdata
-/data
+HW_4_files/
 
 # Example code in package build process
 *-Ex.R
@@ -48,3 +48,6 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Data Folder
+data/
